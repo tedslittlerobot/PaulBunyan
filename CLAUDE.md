@@ -11,7 +11,9 @@ day's logs to share (with a SwiftUI button and `Transferable` drag support). It'
 `README.md` is its user documentation, so keep it accurate whenever behaviour or API changes.
 
 - One library product and module, `PaulBunyan`, in `Sources/PaulBunyan/`.
-- One dependency, XCGLogger. Don't add others without asking.
+- MIT licensed (`LICENSE`).
+- One dependency, XCGLogger (also MIT). Don't add others without asking, and only ones whose
+  licence is compatible with MIT.
 - macOS 26+, Swift 6.2 tools, Swift 6 language mode, with the upcoming features in
   `Package.swift`'s `[SwiftSetting].standard` (`ExistentialAny`, `InternalImportsByDefault`,
   `MemberImportVisibility`, `NonisolatedNonsendingByDefault`, `InferIsolatedConformances`).

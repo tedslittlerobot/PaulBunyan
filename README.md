@@ -1,6 +1,7 @@
 # PaulBunyan
 
 [![Tests](https://github.com/tedslittlerobot/PaulBunyan/actions/workflows/tests.yml/badge.svg)](https://github.com/tedslittlerobot/PaulBunyan/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Day-by-day log files for macOS apps, ready to zip up and hand to whoever's helping.
 
@@ -422,3 +423,7 @@ pull request (`.github/workflows/tests.yml`).
 
 Releases are semver tags on `main` (`2.0.0`). Conventions for working on the package, for
 people and coding agents alike, are in [`CLAUDE.md`](CLAUDE.md).
+
+## Licence
+
+PaulBunyan is released under the MIT Licence. See [`LICENSE`](LICENSE).
